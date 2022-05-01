@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A7741Dc56a0142dd38Efc88f441a06158611907",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8a7741dc56a0142dd38efc88f441a06158611907",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Forgotten Pandas",
+  "SYMBOL": "TFP",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 400000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-forgotten-pandas",
+  "SHOW_BACKGROUND": true
+}
